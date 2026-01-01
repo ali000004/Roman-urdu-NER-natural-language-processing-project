@@ -124,8 +124,10 @@ Saved in: mkpucit_final_ner_input.csv
 - Errors mostly due to:
   - Organization name ambiguity  
   - Remaining OOV cases
- 
-<img width="500" height="500" alt="confmat (1)" src="https://github.com/user-attachments/assets/02f53580-d147-48cd-bbdf-1680b3d65642" />
+ <img width="354" height="137" alt="image" src="https://github.com/user-attachments/assets/2defaf48-3d8d-4800-8e25-b0676a7676d7" />
+ <img width="368" height="127" alt="image" src="https://github.com/user-attachments/assets/5676465d-b4c3-4b5c-b658-2ecb25401b7b" />
+
+<img width="400" height="400" alt="confmat (1)" src="https://github.com/user-attachments/assets/02f53580-d147-48cd-bbdf-1680b3d65642" />
  
 
 ---
