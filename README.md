@@ -123,7 +123,10 @@ Saved in: mkpucit_final_ner_input.csv
 - Major gains in **Location** and **Person** entities  
 - Errors mostly due to:
   - Organization name ambiguity  
-  - Remaining OOV cases  
+  - Remaining OOV cases
+ 
+<img width="887" height="791" alt="confmat (1)" src="https://github.com/user-attachments/assets/02f53580-d147-48cd-bbdf-1680b3d65642" />
+ 
 
 ---
 
