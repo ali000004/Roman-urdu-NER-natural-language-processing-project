@@ -125,7 +125,7 @@ Saved in: mkpucit_final_ner_input.csv
   - Organization name ambiguity  
   - Remaining OOV cases
  
-<img width="887" height="791" alt="confmat (1)" src="https://github.com/user-attachments/assets/02f53580-d147-48cd-bbdf-1680b3d65642" />
+<img width="500" height="500" alt="confmat (1)" src="https://github.com/user-attachments/assets/02f53580-d147-48cd-bbdf-1680b3d65642" />
  
 
 ---
